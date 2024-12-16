@@ -12,8 +12,14 @@ interface PricingFeature {
 
 const features: PricingFeature[] = [
   {
-    name: "Social Media Marketing & Handling",
-    basic: true,
+    name: "Social Media Marketing",
+    basic: false,
+    pro: true,
+    business: true,
+  },
+  {
+    name: "Social Media Handling",
+    basic: false,
     pro: true,
     business: true,
   },
@@ -21,7 +27,13 @@ const features: PricingFeature[] = [
     name: "E-Commerce Setup",
     basic: "Basic",
     pro: "Advanced",
-    business: "Advanced",
+    business: "Premium",
+  },
+  {
+    name: "Access to Paid Subscription",
+    basic: false,
+    pro: false,
+    business: true,
   },
   {
     name: "Virtual Assistance",
@@ -31,9 +43,9 @@ const features: PricingFeature[] = [
   },
   {
     name: "Graphic Designing",
-    basic: "Community",
-    pro: "Community & Priority",
-    business: "Community & 24 / 7 Premium",
+    basic: true,
+    pro: true,
+    business: true,
   },
   {
     name: "Custom Web Development",
@@ -57,18 +69,18 @@ const features: PricingFeature[] = [
     name: "Marketing Campaigns",
     basic: "Basic",
     pro: "Advanced",
-    business: "Advanced",
-  },
-  {
-    name: "Custom Branding",
-    basic: "Basic",
-    pro: "Full Branding",
     business: "Premium",
   },
   {
+    name: "Custom Branding",
+    basic: false,
+    pro: true,
+    business: true,
+  },
+  {
     name: "Products",
-    basic: "Up to 20",
-    pro: "Up to 50",
+    basic: "Up to 10",
+    pro: "Up to 25",
     business: "Unlimited",
   },
   {
