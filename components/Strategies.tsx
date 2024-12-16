@@ -15,7 +15,7 @@ export default function Strategies() {
       <div className="container mx-auto px-6">
         <h2 className="text-3xl font-bold text-center text-gray-800 mb-8">Smart Strategies for Your Success</h2>
         <p className="text-center text-gray-600 mb-12 max-w-3xl mx-auto">
-          Our comprehensive strategies ensure long-term profitability for your dropshipping business. Here's how we do it:
+          Our comprehensive strategies ensure long-term profitability for your dropshipping business. Here is how we do it:
         </p>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {strategies.map((strategy, index) => (

@@ -100,7 +100,7 @@ export default function PricingTable() {
             Our Plans
           </h2>
           <p className="text-gray-600 max-w-2xl mx-auto">
-            Choose the perfect plan for your needs. Whether you're just starting out or running a large business, we have you covered with our range of services and features.
+            Choose the perfect plan for your needs. Whether you are just starting out or running a large business, we have you covered with our range of services and features.
           </p>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">

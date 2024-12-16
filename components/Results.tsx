@@ -24,7 +24,7 @@ export default function Results() {
             </div>
             <h3 className="text-xl text-black font-semibold mb-4">New Client Success</h3>
             <p className="text-gray-600 mb-4">
-              A new client's store, set up with our comprehensive package, achieved a 300% increase in sales within the first 6 months using our targeted advertising campaigns and curated product selection.
+              A new clients store, set up with our comprehensive package, achieved a 300% increase in sales within the first 6 months using our targeted advertising campaigns and curated product selection.
             </p>
             <div className="bg-blue-100 p-4 rounded-lg">
               <p className="text-blue-800 font-semibold">300% Increase in Sales</p>
@@ -46,7 +46,7 @@ export default function Results() {
             </div>
             <h3 className="text-xl text-black font-semibold mb-4">Existing Client Optimization</h3>
             <p className="text-gray-600 mb-4">
-              An existing client's store saw a 5x boost in conversions after we implemented our optimization plan, including speed enhancements, UI updates, and advanced retargeting strategies.
+              An existing clients store saw a 5x boost in conversions after we implemented our optimization plan, including speed enhancements, UI updates, and advanced retargeting strategies.
             </p>
             <div className="bg-blue-100 p-4 rounded-lg">
               <p className="text-blue-800 font-semibold">5x Boost in Conversions</p>
@@ -90,7 +90,7 @@ export default function Results() {
             </div>
             <h3 className="text-xl text-black font-semibold mb-4">New Client Success</h3>
             <p className="text-gray-600 mb-4">
-            After implementing our data-driven SEO strategy and content marketing plan, a client's store achieved a 400% increase in organic traffic within 4 months.
+            After implementing our data-driven SEO strategy and content marketing plan, a clients store achieved a 400% increase in organic traffic within 4 months.
             </p>
             <div className="bg-blue-100 p-4 rounded-lg">
               <p className="text-blue-800 font-semibold">400% Increase in Organic Traffic</p>
