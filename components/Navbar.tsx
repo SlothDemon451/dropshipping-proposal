@@ -69,7 +69,7 @@ export default function Navbar() {
           initial={{ opacity: 0, y: -10 }}
           animate={{ opacity: 1, y: 0 }}
           exit={{ opacity: 0, y: -10 }}
-          className="lg:hidden border-t border-b border-gray-300"
+          className="xl:hidden border-t border-b border-gray-300"
         >
           
           <div className="flex flex-col py-5 space-y-1 text-black">
